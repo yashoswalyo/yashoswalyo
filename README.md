@@ -40,8 +40,13 @@
 </details>
 <br/>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=yashoswalyo&theme=react-dark&hide_border=true&area=true"/>
+<br>
+**I'm a Night 🦉** 
 
+```text
+🌞 Morning    98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.93% 
+🌆 Daytime    207 commits    ██████░░░░░░░░░░░░░░░░░░░   27.31% 
+🌃 Evening    260 commits    ████████░░░░░░░░░░░░░░░░░   34.3% 
+🌙 Night      193 commits    ██████░░░░░░░░░░░░░░░░░░░   25.46%
 
-
-
-
+```
