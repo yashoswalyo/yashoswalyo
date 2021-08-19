@@ -40,7 +40,7 @@
 </details>
 <br/>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=yashoswalyo&theme=react-dark&hide_border=true&area=true"/>
-<br>
+<br/>
 **I'm a Night 🦉** 
 
 ```text
