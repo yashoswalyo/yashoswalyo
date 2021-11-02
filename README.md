@@ -10,7 +10,10 @@
 <p align="center">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=yashoswalyo&theme=tokyonight_duo&hide_border=true&fire=DDB708"/>
 </p>
-<h3> <b>Language and Tools:<b> </h3>
+<details close="">
+<summary>
+<b>Language and Tools:<b>
+</summary>
 <p>
 <a href="https://www.github.com/"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="" srcset=""></a>
 <a href="https://www.google.com/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="" srcset=""></a>
@@ -23,17 +26,34 @@
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="" srcset=""></a>
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="" srcset=""></a>
 <a href="hhtps://www.heroku.com/"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="" srcset=""></a>
+</p>
+</details>
+<details close="">
+<summary>
+<b>Tools: <b>
+</summary>
+<p>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="" srcset=""></a>
 <a href="https://www.replit.com/"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="" srcset=""></a>
 </p>
-<hr/>
-
-#
-
-<details open="">
+</details>
+<details close="">
 <summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+<b>Environments: <b>
 </summary>
+<p>
+ <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="" srcset=""></a>
+ <a href="https://www.microsoft.com/en-in/windows"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="" srcset=""></a>
+<a href="https://www.android.com/"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="" srcset=""></a>
+</p>
+</details>
+<hr/>
+<details close="">
+<summary>
+<b>Social: <b>
+</summary>
+<p>
+</p
 <p align="center">
   <a href="https://github.com/yashoswalyo">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashoswalyo&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true" />
@@ -42,7 +62,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashoswalyo&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true"/>
   </a>
 </p>
-</details>
 <br/>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=yashoswalyo&theme=react-dark&hide_border=true&area=true"/>
 <br/>
