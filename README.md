@@ -49,6 +49,9 @@
 		<a href="hhtps://www.heroku.com/"><img
 				src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt=""
 				srcset=""></a>
+		<a href="https://angular.io" target="_blank" rel="noopener noreferrer"><img
+				src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt=""
+				srcset=""></a>
 	</p>
 </details>
 <details close="">
