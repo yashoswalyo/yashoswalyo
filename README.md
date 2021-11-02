@@ -12,7 +12,7 @@
 	<img align="center"
 		src="http://github-readme-streak-stats.herokuapp.com?user=yashoswalyo&theme=tokyonight_duo&hide_border=true&fire=DDB708" />
 </p>
-<details close="">
+<details open="">
 	<summary>
 		<b>Language and Tools:<b>
 	</summary>
@@ -80,7 +80,6 @@
 				srcset=""></a>
 	</p>
 </details>
-<hr />
 <details close="">
 	<summary>
 		<b>Social: <b>
@@ -89,11 +88,18 @@
 		<a href="http://t.me/yashoswalyo" target="_blank" rel="noopener noreferrer"><img
 				src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt=""
 				srcset=""></a>
-		<a href="https://instagram.com/itz__yo"><img 
+		<a href="https://instagram.com/itz__yo"><img
 				src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""
-				srcset="" ></a>
+				srcset=""></a>
+		<a href="https://linkedin.com/in/yash-oswal-91ab27197"><img
+				src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""
+				srcset=""></a>
+		<a href="https://youtube.com/techologyhacks"><img
+				src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt=""
+				srcset=""></a>
 	</p>
 </details>
+<hr />
 <p align="center">
 	<a href="https://github.com/yashoswalyo">
 		<img align="center"
