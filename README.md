@@ -91,7 +91,7 @@
 		<a href="http://t.me/yashoswalyo" target="_blank" rel="noopener noreferrer"><img
 				src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt=""
 				srcset=""></a>
-		<a href="https://instagram.com/itz__yo"><img
+		<a href="https://instagram.com/yash_oswal_18"><img
 				src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""
 				srcset=""></a>
 		<a href="https://linkedin.com/in/yash-oswal-91ab27197"><img
