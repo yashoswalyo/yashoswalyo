@@ -7,6 +7,7 @@
 	<img src="https://img.shields.io/github/stars/yashoswalyo?label=Stars&style=flat-square&color=green"
 		alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
+
 <br>
 <p align="center">
 	<img align="center"
