@@ -53,6 +53,7 @@
 		<a href="https://angular.io" target="_blank" rel="noopener noreferrer"><img
 				src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt=""
 				srcset=""></a>
+		<a href="https://php.net"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="" srcset=""></a>
 	</p>
 </details>
 <details close="">
