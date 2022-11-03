@@ -105,8 +105,8 @@
 	</p>
 </details>
 <hr />
+		<img src="https://holopin.me/yashoswalyo">
 <p align="center">
-	[![@yashoswalyo's Holopin board](https://holopin.me/yashoswalyo)](https://holopin.io/@yashoswalyo)
 	<a href="https://github.com/yashoswalyo">
 		<img align="center"
 			src="https://github-readme-stats.vercel.app/api?username=yashoswalyo&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true" />
