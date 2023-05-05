@@ -54,6 +54,7 @@
 				src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt=""
 				srcset=""></a>
 		<a href="https://php.net"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="" srcset=""></a>
+		<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
 	</p>
 </details>
 <details close="">
@@ -120,7 +121,7 @@
 <img align="center"
 	src="https://activity-graph.herokuapp.com/graph?username=yashoswalyo&theme=react-dark&hide_border=true&area=true" />
 <br />
-**I'm a Night 🦉**
+<b>I'm a Night 🦉</b>
 
 ```text
 🌞 Morning 98 commits ███░░░░░░░░░░░░░░░░░░░░░░ 12.93%
