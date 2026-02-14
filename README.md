@@ -86,7 +86,7 @@
 				srcset=""></a>
 	</p>
 </details>
-<details close="">
+<details>
 	<summary>
 		<b>Social: <b>
 	</summary>
@@ -94,13 +94,13 @@
 		<a href="http://t.me/yashoswalyo" target="_blank" rel="noopener noreferrer"><img
 				src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt=""
 				srcset=""></a>
-		<a href="https://instagram.com/__itzyo"><img
+		<a href="https://instagram.com/yashoswal.18"><img
 				src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""
 				srcset=""></a>
 		<a href="https://linkedin.com/in/yash-oswal-91ab27197"><img
 				src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""
 				srcset=""></a>
-		<a href="https://youtube.com/techologyhacks"><img
+		<a href="https://youtube.com/YashOswalYO"><img
 				src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt=""
 				srcset=""></a>
 	</p>
