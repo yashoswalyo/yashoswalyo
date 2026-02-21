@@ -86,7 +86,7 @@
 				srcset=""></a>
 	</p>
 </details>
-<details>
+<details open>
 	<summary>
 		<b>Social: <b>
 	</summary>
@@ -100,22 +100,17 @@
 		<a href="https://linkedin.com/in/yash-oswal-91ab27197"><img
 				src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""
 				srcset=""></a>
-		<a href="https://youtube.com/YashOswalYO"><img
+		<a href="https://youtube.com/@YashOswalYO"><img
 				src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt=""
 				srcset=""></a>
 	</p>
 </details>
 <hr />
-		<img src="https://holopin.me/yashoswalyo">
+<img src="https://holopin.me/yashoswalyo">
 <p align="center">
-	<a href="https://github.com/yashoswalyo">
-		<img align="center"
-			src="https://github-readme-stats.vercel.app/api?username=yashoswalyo&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true" />
-	</a>
-	<a href="https://github.com/yashoswalyo">
-		<img align="center"
-			src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashoswalyo&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-	</a>
+
+[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yashoswalyo&bg_color=0a0f0b&color=f6f8fa&line=abd200&point=f6f8fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </p>
 <br />
 <img align="center"
